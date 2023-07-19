@@ -10,3 +10,15 @@
 - [粤语数字](2.md)
 - [粤语常用字](3.md)
 - [粤语方位及代词](4.md)
+
+# Duolingo课程笔记
+
+## 第一部分
+- [Unit3](3d.md)
+- [Unit4](4d.md)
+- [Unit5](5d.md)
+- [Unit6](6d.md)
+- [Unit7](7d.md)
+- [Unit8](8d.md)
+- [Unit9](9d.md)
+- [Unit10](10d.md)

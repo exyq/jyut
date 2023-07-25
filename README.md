@@ -14,6 +14,8 @@
 # Duolingo课程笔记
 
 ## 第一部分
+- [Unit1](1d.md)
+- [Unit2](2d.md)
 - [Unit3](3d.md)
 - [Unit4](4d.md)
 - [Unit5](5d.md)
